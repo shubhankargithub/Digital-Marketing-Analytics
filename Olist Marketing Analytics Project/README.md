@@ -13,9 +13,7 @@ Recommendation Webapp - https://olist-marketing-analytics.herokuapp.com/
 
 Marketing Dashboard - https://prod-useast-a.online.tableau.com/#/site/mohodhruda/views/OlistMarketingDashboard/Dashboard
 
-(Credentials to access Marketing Dashboard- 
-Username: mohod.h@husky.neu.edu
-Password : Tableau1!)
+(Dashboard access credentials removed.)
 
 CLAAT Document - https://docs.google.com/document/d/1BoSlam9Pp4LPUwb88HmeilAvCu6RH2-b8ECv4c8M0NM/edit#heading=h.ax8bqte2btx2
 
